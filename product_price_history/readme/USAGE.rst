@@ -1,6 +1,1 @@
-Close period
-
-* Go to
-* Go to
-* Select a date
-* Click «»
+Go to ``Inventory > Master data > Product price history`` and handle prices
